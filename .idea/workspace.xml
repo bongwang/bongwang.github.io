@@ -2,7 +2,561 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac7b92ac-1e26-4bc4-9f1a-acea5111cfa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/category-archive.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/tag-archive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1473870213530.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1478213467992.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1500181304581.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1500214855350.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1479508047505.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1480591890264.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1482532165381.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483456786593.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483457152038.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1519412839827.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944006665.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944162041.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1472308473018.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1514406795156.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1514407115153.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1538482988032.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483124729757.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483128389943.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1474306861206.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479253931238.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479265677846.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-overlay-image/comment-1512840683260.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-overlay-image/comment-1513110608614.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-overlay-image/comment-1513111329875.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-overlay-image/comment-1513111563922.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-related-posts/comment-1500183131535.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-related-posts/comment-1500214974083.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-custom/comment-1519247076880.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-custom/comment-1519247290410.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-custom/comment-1520748170396.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-nav-list/comment-1492811460488.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-nav-list/comment-1492812977693.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1512118683486.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1520683848241.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1527082094887.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1527500055863.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1527690060032.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1527690281769.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/layout-table-of-contents-post/comment-1540422628114.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-image-alignment/comment-1534823211504.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472040323579.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472146638519.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1478928407894.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1487758246637.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1505403032256.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1505403241808.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1514836962551.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472064560364.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472786137736.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-gallery/comment-1500055247314.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-gallery/comment-1500056210776.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-modified/comment-1497284119888.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-modified/comment-1497284892766.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-modified/comment-1520673777110.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506623182288.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506623710918.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506632190623.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942205700.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942247755.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942265819.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471823346931.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471834988411.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1472786599470.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1500505983331.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1507141538771.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/navigation.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/ui-text.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/01-quick-start-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/02-structure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/03-installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/04-upgrading.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/05-configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/06-overriding-theme-defaults.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/07-navigation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/08-ui-text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/09-authors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/10-layouts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/11-posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/12-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/13-collections.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/14-helpers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/15-utility-classes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/16-stylesheets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/17-javascript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/18-history.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/19-contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/20-docs-2-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/21-license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_drafts/post-draft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/404.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/archive-layout-with-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/category-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/collection-archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/edge-case.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/lorem-ipsum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/markup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/page-a.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/page-archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/page-b.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/pets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/portfolio-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/post-archive-feature-rows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/recipes-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/sample-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/sitemap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/splash-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/tag-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/terms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pages/year-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pets/lhasa-apso.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_pets/tabby.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_portfolio/baz-boom-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_portfolio/fizz-bang-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_portfolio/foo-bar-website.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_portfolio/ginger-gulp-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-06-01-edge-case-many-tags.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-07-02-edge-case-many-categories.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-08-06-edge-case-no-body-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-09-05-edge-case-no-yaml-title.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-very-long-title.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-modified.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-standard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-01-08-post-chat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-notice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-quote.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-03-07-post-link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-06-02-post-video-youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-header-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-header-overlay-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-linked.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-standard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-teaser-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-06-post-image-linked-caption.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-08-07-post-image-caption.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-09-09-post-gallery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-09-10-post-twitter-embeds.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2010-10-25-post-future-date.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-include-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-indent-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-sticky.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-code-excerpt-generated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-defined.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-generated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-sidebar-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-external.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-horizontal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-text-readability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-vertical.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-color.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-more-tag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-custom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-nav-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-05-22-markup-text-readability-wide-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2012-05-22-markup-text-readability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-markup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-special-characters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-01-09-markup-text-alignment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-01-10-markup-image-alignment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-01-11-markup-html-tags-and-formatting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-05-22-markup-more-images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2013-08-16-markup-syntax-highlighting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-02-24-welcome-to-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-09-21-gemified-theme-alpha.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-10-06-gemified-theme-beta.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-01-23-layout-header-video.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-11-28-post-exclude-search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_recipes/chocolate-chip-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_recipes/oatmeal-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_recipes/peanut-butter-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/3953273590_704e3899d5_m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/500x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/aqua-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/aqua-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/aqua-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/aqua-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/contrast-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dark-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/default-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dirt-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/facebook-share-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/google-custom-search-engine-layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-1200x4002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-580x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/markup-syntax-highlighting-teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/masthead-search.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/michael-rose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-archive-grid-view-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-gs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-sidebar-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-breadcrumbs-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-browser-mockups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-bundle-install.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-customizable-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-free-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-gh-pages.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-copy-repo-url.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-edit-config.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-black-filter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-red-filter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-page-feature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-post-pagination-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive-taxonomy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-examples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-meta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-masthead-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-paragraph-indent-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-portfolio-collection-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-priority-plus-masthead.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-read-time-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-responsive-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-fill-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-gs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-staticman-pr-webhook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-susy-grid-overlay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-teaser-images-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-fork-repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-toc-helper-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mm-ui-text-labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/mstile-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neon-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neon-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neon-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neon-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neon-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/page-header-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/page-header-og-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/page-header-overlay-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/page-header-teaser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-no-indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/plum-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/plum-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/plum-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/plum-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/plum-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/search-layout-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/solarized-light-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-code-block.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-archive-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-post-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshot-layouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minimal-mistakes-jekyll.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot-layouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/navigation.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/404.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/archive-layout-with-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/category-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/collection-archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/edge-case.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/lorem-ipsum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/markup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/page-a.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/page-archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/page-b.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/portfolio-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/post-archive-feature-rows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/recipes-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/sample-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/sitemap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/splash-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/tag-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/terms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pages/year-archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pets/lhasa-apso.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_pets/tabby.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_portfolio/baz-boom-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_portfolio/fizz-bang-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_portfolio/foo-bar-website.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_portfolio/ginger-gulp-identity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-06-01-edge-case-many-tags.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-07-02-edge-case-many-categories.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-08-06-edge-case-no-body-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-09-05-edge-case-no-yaml-title.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-very-long-title.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-modified.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-standard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-01-08-post-chat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-notice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-quote.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-03-07-post-link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-06-02-post-video-youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-header-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-header-overlay-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-linked.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-standard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-teaser-image-og-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-06-post-image-linked-caption.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-08-07-post-image-caption.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-09-09-post-gallery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-09-10-post-twitter-embeds.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2010-10-25-post-future-date.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-include-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-indent-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-sticky.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-code-excerpt-generated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-defined.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-generated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-override.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-sidebar-disabled.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-external.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-horizontal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-text-readability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-vertical.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-color.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-more-tag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-custom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-nav-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability-wide-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-markup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-special-characters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-01-09-markup-text-alignment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-01-10-markup-image-alignment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-01-11-markup-html-tags-and-formatting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-05-22-markup-more-images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2013-08-16-markup-syntax-highlighting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2016-02-24-welcome-to-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2017-11-28-post-exclude-search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_recipes/chocolate-chip-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_recipes/oatmeal-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_recipes/peanut-butter-cookies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/3953273590_704e3899d5_m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/500x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/bio-photo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/bio-photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/facebook-share-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-1200x4002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-580x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/markup-syntax-highlighting-teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-archive-grid-view-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-gs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-author-sidebar-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-breadcrumbs-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-browser-mockups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-bundle-install.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-customizable-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-free-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-gh-pages.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-github-copy-repo-url.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-github-edit-config.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-black-filter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-red-filter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-home-page-feature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-home-post-pagination-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive-taxonomy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-examples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-meta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-paragraph-indent-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-portfolio-collection-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-priority-plus-masthead.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-read-time-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-responsive-feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-fill-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-gs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-staticman-pr-webhook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-susy-grid-overlay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-teaser-images-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-fork-repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-toc-helper-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/mm-ui-text-labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/page-header-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/page-header-og-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/page-header-overlay-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/page-header-teaser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/paragraph-indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/paragraph-no-indent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4-th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +566,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="181" column="12" lean-forward="true" selection-start-line="115" selection-start-column="42" selection-end-line="182" />
+            <state relative-caret-position="771">
+              <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-405" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/about.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/404.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/category-archive.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/tag-archive.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/masthead.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>quick start</find>
+      <find>masthead__menu-item</find>
+      <find>masthead</find>
+      <find>start</find>
+      <find>_posts</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +661,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_pages/about.md" />
+        <option value="$PROJECT_DIR$/_pages/404.md" />
+        <option value="$PROJECT_DIR$/_pages/category-archive.md" />
+        <option value="$PROJECT_DIR$/_pages/tag-archive.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -52,6 +690,11 @@
               <item name="bongwang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="bongwang.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bongwang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bongwang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -59,7 +702,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552197760349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552200141220" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -98,7 +741,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="0" width="1867" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -129,13 +771,71 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="이름 변" />
-    <option name="LAST_COMMIT_MESSAGE" value="이름 변" />
+    <MESSAGE value="초기 페이지 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="초기 페이지 설정" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_includes/masthead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_docs/05-configuration.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="243" column="14" selection-start-line="243" selection-end-line="243" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/404.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category-archive.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="181" column="12" lean-forward="true" selection-start-line="115" selection-start-column="42" selection-end-line="182" />
+        <state relative-caret-position="771">
+          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
