@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "맑은물 민박"
-    url: "/about/"
-  - title: "Category"
+  - title: "소개"
+    url: "/_pages/about/"
+  - title: "분류"
     url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
