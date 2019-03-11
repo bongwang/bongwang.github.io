@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "소개"
-    url: "/_pages/about/"
-  - title: "분류"
-    url: /categories/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
