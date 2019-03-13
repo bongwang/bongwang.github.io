@@ -4,5 +4,7 @@ main:
     url: /
   - title: "동영상"
     url: /movies/
+  - title: "사진"
+    url: /photos/
   - title: "위치"
     url: /location/
