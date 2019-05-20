@@ -4,37 +4,37 @@ permalink: /
 title: "맑은물 민박/펜션"
 excerpt: "충남 공주 마곡사 근처에 있는 조용하고 한적한 시골 마을에 있는 민박집"
 gallery1:
-  - url: /assets/images/20140629_1758031.jpg
+  - url: /assets/thumbs/20140629_1758031.jpg
     image_path: /assets/images/20140629_1758031.jpg
     alt: "계곡위 정자."
-  - url: /assets/images/20140517_100609.jpg
+  - url: /assets/thumbs/20140517_100609.jpg
     image_path: /assets/images/20140517_100609.jpg
     alt: "개울옆 텃밭 장독대"
-  - url: /assets/images/20180603_080630.jpg
+  - url: /assets/thumbs/20180603_080630.jpg
     image_path: /assets/images/20180603_080630.jpg
     alt: "민박집 옆 개울"
-  - url: /assets/images/20180603_080415.jpg
+  - url: /assets/thumbs/20180603_080415.jpg
     image_path: /assets/images/20180603_080415.jpg
     alt: "정자 아래 개울"
-  - url: /assets/images/20180603_081030.jpg
+  - url: /assets/thumbs/20180603_081030.jpg
     image_path: /assets/images/20180603_081030.jpg
     alt: "정자 아래 개울"
-  - url: /assets/images/IMG_20151025_133535.jpg
+  - url: /assets/thumbs/IMG_20151025_133535.jpg
     image_path: /assets/images/IMG_20151025_133535.jpg
     alt: "도토리"
-  - url: /assets/images/IMG_20141109_090125.jpg
+  - url: /assets/thumbs/IMG_20141109_090125.jpg
     image_path: /assets/images/IMG_20141109_090125.jpg
     alt: "가을 산책"
-  - url: /assets/images/20180606_091801.jpg
+  - url: /assets/thumbs/20180606_091801.jpg
     image_path: /assets/images/20180606_091801.jpg
     alt: "집 내부1"
-  - url: /assets/images/20180606_091904.jpg
+  - url: /assets/thumbs/20180606_091904.jpg
     image_path: /assets/images/20180606_091904.jpg
     alt: "집 내부2"    
-  - url: /assets/images/20180606_091916.jpg
+  - url: /assets/thumbs/20180606_091916.jpg
     image_path: /assets/images/20180606_091916.jpg
     alt: "화장실"
-  - url: /assets/images/IMG_20141221_104621.jpg
+  - url: /assets/thumbs/IMG_20141221_104621.jpg
     image_path: /assets/images/IMG_20141221_104621.jpg
     alt: "겨울"          
 last_modified_at: 2019-01-23T20:23:03-05:00
