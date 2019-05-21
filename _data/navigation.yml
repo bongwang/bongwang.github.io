@@ -2,8 +2,6 @@
 main:
   - title: "홈"
     url: /
-  - title: "물놀이"
-    url: /movies/
   - title: "사진"
     url: /photos/
   - title: "위치"
