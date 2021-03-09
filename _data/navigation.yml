@@ -1,8 +1,0 @@
-# main links
-main:
-  - title: "홈"
-    url: /
-  - title: "사진"
-    url: /photos/
-  - title: "위치"
-    url: /location/
